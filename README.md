@@ -14,7 +14,7 @@
 <h3 align="left">Academic Background</h3>
 
 <p>
-<h4 align="left">Software Developer <a href="https://www.holbertonschool.com" target="blank"><img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="Holberton School" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Publicist<a href="https://www.uao.edu.co/" target="blank"><img src="https://pattern.uao.edu.co/images/UAO-logo.png" alt="Universidad Autónoma de Occidente" height="50" width="50" /></a></h4>
+<h4 align="left">Software Developer<br> <a href="https://www.holbertonschool.com" target="blank"><img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="Holberton School" height="50" width="50" /></a><br>Publicist<br><a href="https://www.uao.edu.co/" target="blank"><img src="https://pattern.uao.edu.co/images/UAO-logo.png" alt="Universidad Autónoma de Occidente" height="50" width="50" /></a></h4>
 </p>
 <br>
 
