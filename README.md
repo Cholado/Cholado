@@ -14,7 +14,7 @@
 <h3 align="left">Academic Background</h3>
 
 <p>
-<h4 align="left">Software Developer<br> <a href="https://www.holbertonschool.com" target="blank"><img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="Holberton School" height="50" width="50" /></a><br>Publicist<br><a href="https://www.uao.edu.co/" target="blank"><img src="https://pattern.uao.edu.co/images/UAO-logo.png" alt="Universidad Autónoma de Occidente" height="50" width="50" /></a><br>Graphic artist<br><img src="https://www.sanboscocali.edu.co/assets/img/logo-san-bosco.png" alt="Instituto Técnico Industrial San Juan Bosco" height="37" width="160" /></h4>
+<h4 align="left">Software Developer<br> <a href="https://www.holbertonschool.com" target="blank"><img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="Holberton School" height="50" width="50" /></a><br>Publicist<br><a href="https://www.uao.edu.co/" target="blank"><img src="https://pattern.uao.edu.co/images/UAO-logo.png" alt="Universidad Autónoma de Occidente" height="50" width="50" /></a><br>Graphic artist<br><a href="https://www.sanboscocali.edu.co/" target="blank"><img src="https://www.sanboscocali.edu.co/assets/img/logo-san-bosco.png" alt="Instituto Técnico Industrial San Juan Bosco" height="37" width="160" /></a></h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
